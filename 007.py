@@ -16,8 +16,8 @@ class Calc:
 calc = Calc(10, 2)
 print('Soma: {}' .format(calc.soma()))
 print('Subtração: {}' .format(calc.sub()))
-print(calc.mult())
-print(calc.div())
+print('Multiplicação: {}' .format(calc.mult()))
+print('Divisão: {}' .format(calc.div()))
 
 
 
