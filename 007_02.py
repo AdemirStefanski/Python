@@ -15,7 +15,7 @@ class Calculadora:
         return valor_a * valor_b
 
     def divisao(self, valor_a, valor_b):
-        return valor_a / valo
+        return valor_a / valor_b
 
 calculadora = Calculadora()
 
